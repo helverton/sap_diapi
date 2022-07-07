@@ -10,7 +10,7 @@
   $oComp->LicenseServer = "hostname";
   $oComp->DbUserName = "userdb"; //Usuário do banco de dados
   $oComp->DbPassword = "user@db"; //Senha do banco de dados
-  $oComp->DBServerType = 11; //Tipo 7 indica o SGBD MSSQL 2012
+  $oComp->DBServerType = 11; //Tipo 11 indica o SGBD MSSQL 2019
   $oComp->UseTrusted = false; //False = sem autenticação com Windows
   $oComp->UserName = "usersap"; //Usuário do SAP
   $oComp->Password = "user@sap"; //Senha do usuário do SAP
