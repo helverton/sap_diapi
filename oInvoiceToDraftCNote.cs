@@ -1,5 +1,4 @@
 #region Global variable
-Documents oInvoice = (Documents)company.GetBusinessObject(BoObjectTypes.oInvoices);
 Documents oDraft = (Documents)company.GetBusinessObject(BoObjectTypes.oDrafts);
 Recordset oRecordset = (Recordset)company.GetBusinessObject(BoObjectTypes.BoRecordset);
 Recordset oRecordset2 = (Recordset)company.GetBusinessObject(BoObjectTypes.BoRecordset);
